@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,14 +35,14 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "paypal": true,
     "citibank": false,
     "mais": true,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
