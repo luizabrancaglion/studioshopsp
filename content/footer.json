@@ -38,8 +38,10 @@
     "bradesco": true,
     "santander": false,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
