@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete a partir de R$ 9,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Até 12x no cartão "
   },
   "exchange": {
     "show": false,
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Compre com Desconto e Frete mais barato"
+    "text": "3x sem juros em compras acima de R$180,00"
   }
 }
