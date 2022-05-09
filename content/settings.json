@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/studioshopsp",
-  "logo": "/img/uploads/logo-1-.png",
+  "logo": "/img/uploads/logo.png",
   "name": "StudioShopSP",
   "short_name": "#StudioShopSP",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logo-1-.png",
+  "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo-1-.png",
+  "icon": "/img/uploads/logo.png",
   "store_id": 51260,
   "description": "#StudioShopSP O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
-  "large_icon": "/img/uploads/logo-1-.png"
+  "large_icon": "/img/uploads/logo.png"
 }
