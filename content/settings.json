@@ -1,7 +1,7 @@
 {
   "domain": "studioshopsp.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#87cefa",
+  "primary_color": "#007dc5",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
