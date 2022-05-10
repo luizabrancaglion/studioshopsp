@@ -18,7 +18,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/acessorios-para-carro?Acessórios para Carro",
+      "/acessorios-para-celular?Acessórios para Celular",
+      "/fones-de-ouvidos/?Fones de Ouvidos",
+      "/informatica/?Informática",
+      "/smart-band/?Smartband / Smartwatch"
+    ],
     "random": 6,
     "full_width": false
   },
