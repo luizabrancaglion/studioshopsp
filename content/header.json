@@ -29,5 +29,5 @@
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": false
+  "search_input": true
 }
