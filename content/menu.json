@@ -1,6 +1,13 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "acessorios-para-celular",
+    "acessorios-para-carro",
+    "fones-de-ouvidos/",
+    "celular/",
+    "informatica/",
+    "smart-band/"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
