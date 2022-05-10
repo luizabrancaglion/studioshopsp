@@ -1,6 +1,6 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Contato - #STUDIOSHOPSP",
+  "meta_description": "Contato - #STUDIOSHOPSP",
+  "body": "Estamos prontos para atendê-lo, deixe seu recado e responderemos o mais rápido possível. <b>(Ao digitar sua mensagem basta ir no reCAPTCHA do Google para enviar) </b>\n\n<script type=\"text/javascript\">\n  // remove botão enviar\n  var cForm = document.getElementById('contato');\n  var cBtn = cForm.getElementsByClassName('padding-top-10')[0];\n  cForm.removeChild(cBtn);\n  // reCaptcha para validar e enviar o form no callback\n  var onloadCaptcha = function() {\n    grecaptcha.render('contatoCExtra', {\n      'sitekey' : '6LdJf6EUAAAAAI0_Uhscox2qtdzhlBZJkBAhMdLd',\n      'callback': function(response) {\n        if(response) $(\"#contato\").submit();\n      }\n    });\n  };\n</script>\n\n<script src=\"https://www.google.com/recaptcha/api.js?onload=onloadCaptcha&render=explicit&hl=pt-BR\" async defer></script>\n\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSeBsg9BnYpqmKoACdWZ-LxaEeYjBjsMsIbsW_DR56wTVTd01w/viewform?embedded=true\" width=\"100%\" max-width=\"100%\" height=\"1000px\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Carregando…</iframe>"
 }
