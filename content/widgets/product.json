@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "Oferta",
     "buy": "",
     "strHasQuantitySelector": "_",
     "lowQuantityToWarn": 12,
