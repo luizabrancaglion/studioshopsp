@@ -78,7 +78,7 @@
       },
       {
         "source": "/pagina/duvidas",
-        "destination": "/pages/duvidas-frequentes",
+        "destination": "/pages/faq",
         "type": 301
       },
       {
