@@ -95,6 +95,11 @@
         "source": "/pagina/trocas",
         "destination": "/pages/trocas",
         "type": 301
+      },
+      {
+        "source": "/grid*",
+        "destination": "/search",
+        "type": 301
       }
     ],
     "public": "dist",
