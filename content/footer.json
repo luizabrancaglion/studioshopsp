@@ -24,24 +24,27 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "https://paypal.ecomplus.biz/assets/paypal-plus/icon.png"
     }
   ],
   "payment_methods": {
     "bb": false,
-    "visa": true,
+    "visa": false,
     "boleto": true,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": true,
-    "paypal": true,
+    "mastercard": false,
+    "paypal": false,
     "citibank": false,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
