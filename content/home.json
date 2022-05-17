@@ -1,6 +1,6 @@
 {
-  "meta_title": "O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
-  "meta_description": "#StudioShopSP O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
+  "meta_title": "Studio Shop SP -  O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
+  "meta_description": "#StudioShopSP - O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
   "sections": [
     {
       "type": "info-bar",
@@ -10,19 +10,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 6,
-      "page": 1,
-      "collection_id": "627ad08c3da6d37bc22c8351:categories:Acessórios para Celular:/acessorios-para-celular",
-      "title": "Acessório p/ Celular"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
     }
   ]
 }
