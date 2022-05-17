@@ -17,7 +17,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 4,
+      "limit": 24,
       "page": 1,
       "collection_id": "6275e9a33da6d37bc224efca:categories:Informática:/informatica/",
       "sort": "offers"
