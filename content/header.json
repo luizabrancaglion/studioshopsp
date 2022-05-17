@@ -23,11 +23,12 @@
       "/acessorios-para-celular?Acessórios para Celular",
       "/fones-de-ouvidos/?Fones de Ouvidos",
       "/informatica/?Informática",
-      "/smart-band/?Smartband / Smartwatch"
+      "/smart-band/?Smartband / Smartwatch",
+      "/casa--automacao?Casa & Automação"
     ],
     "random": 6,
     "full_width": true
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true
 }
