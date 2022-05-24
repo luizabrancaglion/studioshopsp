@@ -3,6 +3,16 @@
   "meta_description": "#StudioShopSP - O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pads-airpods.png",
+          "link": "https://www.studioshopsp.com/app/#/628ceb64df4d8071c921abc6",
+          "alt": "https://www.studioshopsp.com/app/#/628ceb64df4d8071c921abc6"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
