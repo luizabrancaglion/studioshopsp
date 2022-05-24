@@ -3,6 +3,10 @@
   "meta_description": "#StudioShopSP - O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -11,10 +15,6 @@
           "alt": "https://www.studioshopsp.com/app/#/628ceb64df4d8071c921abc6"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
