@@ -8,12 +8,13 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 24,
+      "max_hours": 1,
       "start": "2022-06-04T15:07:29.536Z",
       "end": "2022-06-11T02:59:29.725Z",
       "offers": [
         "6275f2f93da6d37bc22503c0"
-      ]
+      ],
+      "notes": "Promoção válida até o dia 10/06 ou enquanto durar os estoque!"
     },
     {
       "type": "banners-grid",
