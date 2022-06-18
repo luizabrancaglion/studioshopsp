@@ -56,10 +56,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "6275e9ab3da6d37bc224efdc:categories:Borrachinhas / Pads / Eartips:/pads-eartips-silicone-earbuds/"
+      "collection_id": "6275e9a03da6d37bc224efc4:categories:Película:/peliculas-protecao-de-tela-smart-band/",
+      "sort": "offers"
     }
   ]
 }
