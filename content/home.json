@@ -48,10 +48,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "627ad2b43da6d37bc22c8a7c:categories:Cabo de Carregamento / Cabo USB:/cabo-de-carregamento--cabo-usb",
+      "collection_id": "6275e99f3da6d37bc224efc2:categories:Cabos:/cabos-de-usb-para-carregamento/",
       "sort": "offers"
     },
     {
