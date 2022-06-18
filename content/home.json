@@ -55,6 +55,11 @@
       "limit": 24,
       "page": 1,
       "collection_id": "6275e9ab3da6d37bc224efdc:categories:Borrachinhas / Pads / Eartips:/pads-eartips-silicone-earbuds/"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     }
   ]
 }
