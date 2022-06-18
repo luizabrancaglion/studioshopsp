@@ -27,9 +27,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 2,
       "collection_id": "6275e9aa3da6d37bc224efd8:categories:Fones de Ouvidos:/fones-de-ouvidos/",
       "sort": "slug"
     },
