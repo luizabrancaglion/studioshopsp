@@ -43,7 +43,7 @@
     "paypal": false,
     "citibank": false,
     "hiper": true,
-    "diners": false,
+    "diners": true,
     "mais": false,
     "amex": false,
     "itau": false
