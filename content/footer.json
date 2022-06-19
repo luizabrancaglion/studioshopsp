@@ -27,6 +27,10 @@
     },
     {
       "src": "https://paypal.ecomplus.biz/assets/paypal-plus/icon.png"
+    },
+    {
+      "src": "/img/uploads/picpay.png",
+      "alt": "Pague com PicPay"
     }
   ],
   "payment_methods": {
