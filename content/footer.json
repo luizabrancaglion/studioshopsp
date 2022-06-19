@@ -26,7 +26,8 @@
       "alt": "Secure connection"
     },
     {
-      "src": "https://paypal.ecomplus.biz/assets/paypal-plus/icon.png"
+      "src": "https://paypal.ecomplus.biz/assets/paypal-plus/icon.png",
+      "alt": "Pague com PayPal"
     },
     {
       "src": "/img/uploads/picpay.png",
