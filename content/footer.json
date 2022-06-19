@@ -26,32 +26,26 @@
     },
     {
       "src": "/img/uploads/novo-banner-2022-2.png"
-    },
-    {
-      "src": "/img/uploads/picpay.png"
-    },
-    {
-      "src": "/img/uploads/mp.png"
     }
   ],
   "payment_methods": {
     "bb": false,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
     "mastercard": true,
-    "paypal": true,
+    "paypal": false,
     "citibank": false,
-    "hiper": true,
-    "diners": true,
+    "hiper": false,
+    "diners": false,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
