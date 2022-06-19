@@ -32,6 +32,10 @@
     {
       "src": "/img/uploads/picpay.png",
       "alt": "Pague com PicPay"
+    },
+    {
+      "src": "/img/uploads/mp.png",
+      "alt": "Pague com QRCode Mercado Pago"
     }
   ],
   "payment_methods": {
