@@ -22,20 +22,7 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
-    {
-      "src": "https://paypal.ecomplus.biz/assets/paypal-plus/icon.png",
-      "alt": "Pague com PayPal"
-    },
-    {
-      "src": "/img/uploads/picpay.png",
-      "alt": "Pague com PicPay"
-    },
-    {
-      "src": "/img/uploads/mp.png",
-      "alt": "Pague com QRCode Mercado Pago"
+      "src": "/img/uploads/bannertest.png"
     }
   ],
   "payment_methods": {
