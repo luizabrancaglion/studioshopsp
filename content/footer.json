@@ -34,7 +34,7 @@
     "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": false,
+    "elo": true,
     "hipercard": false,
     "hsbc": false,
     "bradesco": false,
