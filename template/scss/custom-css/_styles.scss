@@ -1,4 +1,4 @@
 // Add your custom CSS here.
 #s-smart-band_ {
-  flex-wrap: wrap;
+  grid-template-columns: repeat(auto-fit,minmax(50%,1fr)) !important;
 }
