@@ -1,19 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete a partir de R$ 9,00"
+    "text": " ENTREGAMOS PARA TODO O BRASIL"
   },
   "installments": {
     "show": true,
-    "text": "Até 12x no cartão "
+    "text": " PARCELE EM ATÉ 3X ACIMA DE R$180,00"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita",
+    "show": true,
+    "text": "SITE SEGURO - SSL 256 BITS",
     "link": ""
   },
   "promo": {
     "show": true,
-    "text": "3x sem juros em compras acima de R$180,00"
+    "text": "CUPOUM PRIMEIRA COMPRA \" STUDIO5OFF \""
   }
 }
