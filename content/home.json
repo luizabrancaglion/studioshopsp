@@ -3,6 +3,19 @@
   "meta_description": "#StudioShopSP - O SEU SHOPPING DE ACESSÓRIOS NA INTERNET!",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-promo-2-150.png",
+          "mobile_img": "/img/uploads/mobile-promo-2-150.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
