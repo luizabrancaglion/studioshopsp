@@ -28,8 +28,9 @@
           "mobile_img": "/img/uploads/oferta_peliculas.png"
         },
         {
-          "img": "/img/uploads/promo-brinde.png",
-          "link": "https://www.studioshopsp.com/search?term=Ahastyle"
+          "img": "/img/uploads/promo-ahastyle.png",
+          "link": "https://www.studioshopsp.com/search?term=Ahastyle",
+          "mobile_img": "/img/uploads/promo-ahastyle.png"
         }
       ]
     },
