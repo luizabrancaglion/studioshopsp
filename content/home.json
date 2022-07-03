@@ -16,6 +16,21 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/oferta-da-semana.png",
+          "link": "https://www.studioshopsp.com/adaptador-baseus-r02-tipo-c-type-c-controle-remoto-ir-oferta",
+          "mobile_img": "/img/uploads/oferta-da-semana.png"
+        },
+        {
+          "img": "/img/uploads/promo-ahastyle.png",
+          "link": "https://www.studioshopsp.com/search?term=Ahastyle",
+          "mobile_img": "/img/uploads/promo-ahastyle.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/oferta-do-dia.png",
           "link": "https://www.studioshopsp.com/lampada-de-led-ceramica-xstorm-t10-w5w-branco-12v-luzes-interiores-de-carro-placa-luz-de-posicao-caixa-c-10-un",
           "mobile_img": "/img/uploads/oferta-do-dia.png",
@@ -26,21 +41,6 @@
           "link": "https://www.studioshopsp.com/search?term=PROMO50",
           "alt": "Oferta 50% ou mais Películas",
           "mobile_img": "/img/uploads/oferta_peliculas.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/oferta-da-semana.png",
-          "link": "https://www.studioshopsp.com/adaptador-baseus-r02-tipo-c-type-c-controle-remoto-ir-oferta",
-          "mobile_img": "/img/uploads/oferta-da-semana.png"
-        },
-        {
-          "img": "/img/uploads/promo-ahastyle.png",
-          "link": "https://www.studioshopsp.com/search?term=Ahastyle",
-          "mobile_img": "/img/uploads/promo-ahastyle.png"
         }
       ]
     },
