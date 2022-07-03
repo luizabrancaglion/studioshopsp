@@ -31,6 +31,11 @@
           "img": "/img/uploads/promo-ahastyle.png",
           "link": "https://www.studioshopsp.com/search?term=Ahastyle",
           "mobile_img": "/img/uploads/promo-ahastyle.png"
+        },
+        {
+          "img": "/img/uploads/oferta-da-semana.png",
+          "link": "https://www.studioshopsp.com/adaptador-baseus-r02-tipo-c-type-c-controle-remoto-ir-oferta",
+          "mobile_img": "/img/uploads/oferta-da-semana.png"
         }
       ]
     },
