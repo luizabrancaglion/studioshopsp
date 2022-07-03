@@ -72,8 +72,9 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "6275e99f3da6d37bc224efc2:categories:Cabos:/cabos-de-usb-para-carregamento/",
-      "sort": "offers"
+      "collection_id": "6275e99d3da6d37bc224efbc:categories:Cabo USB:/cabos/",
+      "sort": "offers",
+      "title": "Cabo para Smartwatch / Smartband"
     },
     {
       "type": "collection-shelf",
