@@ -54,8 +54,9 @@
       "shuffle": true,
       "limit": 24,
       "page": 2,
-      "collection_id": "62ab2a52eb8591121655e9a6:categories:Case (Capinha):/case-capinha",
-      "sort": "offers"
+      "collection_id": "6275e9a03da6d37bc224efc4:categories:Película:/peliculas-protecao-de-tela-smart-band/",
+      "sort": "offers",
+      "title": "Películas para Smartwatch / Smartband"
     },
     {
       "type": "collection-shelf",
