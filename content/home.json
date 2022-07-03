@@ -22,9 +22,10 @@
           "mobile_img": "/img/uploads/oferta-do-dia.png"
         },
         {
-          "img": "/img/uploads/peliculas-promo1.png",
+          "img": "/img/uploads/oferta_peliculas.png",
           "link": "https://www.studioshopsp.com/search?term=PROMO50",
-          "alt": "DESCONTO ESPECIAL"
+          "alt": "DESCONTO ESPECIAL",
+          "mobile_img": "/img/uploads/oferta_peliculas.png"
         },
         {
           "img": "/img/uploads/promo-brinde.png",
