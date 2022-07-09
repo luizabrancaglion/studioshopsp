@@ -52,6 +52,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "627ad24c3da6d37bc22c88c7:categories:Fones Sem Fio:/fone-de-ouvido-sem-fio",
+      "sort": "views",
+      "title": "Fones sem Fio - Frete Grátis"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
