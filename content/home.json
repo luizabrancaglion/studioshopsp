@@ -91,6 +91,15 @@
       "collection_id": "6275e9ab3da6d37bc224efdc:categories:Borrachinhas / Eartips:/pads-eartips-silicone-earbuds/",
       "sort": "offers",
       "title": "Borrachinhas / Pads para fone de Ouvido "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "627ad2203da6d37bc22c882f:categories:Fones com Fio:/fone-de-ouvido-com-fio",
+      "sort": "sales",
+      "link": "Fones c/ Fio"
     }
   ]
 }
